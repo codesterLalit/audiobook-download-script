@@ -6,6 +6,6 @@
 4. sys
 
 ## Syntex for running
-Syntext: python book-download.py -d <urlOfPageOf audiobook>
+Syntex: python book-download.py -d <urlOfPageOf audiobook>
  
  example: python book-download.py -d https://goldenaudiobooks.com/harry-potter-and-the-half-blood-prince-audibook-free
